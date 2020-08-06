@@ -4,6 +4,7 @@ from __future__ import division
 import numpy as np
 import pandas as pd
 import cv2
+import dlib
 
 from time import time
 from time import sleep
@@ -113,12 +114,12 @@ def show_webcam():
     (eblStart, eblEnd) = face_utils.FACIAL_LANDMARKS_IDXS["left_eyebrow"]
     (ebrStart, ebrEnd) = face_utils.FACIAL_LANDMARKS_IDXS["right_eyebrow"]
 
-    model = load_model('Models/video.h5')
+    model = load_model('xception_2_58.h5')
     face_detect = dlib.get_frontal_face_detector()
-    predictor_landmarks = dlib.shape_predictor("Models/face_landmarks.dat")
+    predictor_landmarks = dlib.shape_predictor("models/face_landmarks.dat")
 
     # Lancer la capture video
-    video_capture = cv2.VideoCapture(0)
+    video_capture = cv2.VideoCapture(1)
 
     while True:
         # Capture frame-by-frame

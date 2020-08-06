@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "dataviv-ecommerce",
+    "private_key_id": "a1da41939780bd8286ebc855ddec895040796e2e",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC3o1nScUabe++y\nLyGKR9rnTOKp2gOXStv9Oh3UhKBqdJkBa6Y5/NbwM5XkbvO1q1NE2bLw/RVtEkJi\nmifLrSk+yKdLsfmxFu/BzLsVcrdB0qAfTOGgDBvcdWC4CA8H/FO1MZe4OY8EYdAu\n5ySoaBl/XYYWHFXT6s7cjVLy6GPEBae/le21zZay4IzaVwcoU/gUSBKs763XZTPJ\n5w+aukYAJgmh2muGJgsDlY3tfbGpVmnCPhoku1jJ9hfsIAQNrEDZW8M1VjYsolut\nIm+nMHbVBUb+cPhiNZHTv9Li9LpF5n1rdb9yCSeoio8nzM4Sn+vv/sPeZKh/o8CQ\nQ2QXn3QtAgMBAAECggEABFDlbthBtnk0IEx4rdU6Tfhh7wFt1y1a76zHgBpHFbY8\nbsRqCW/c8pOyM+AigAREUAulZ7UspT3qHulZNeTE4bH5y87yVUxHaBclohkdn7SE\nr4E9+X+yjrzL5qQt2KkaCiaqibM0nmY/UqYVF8fGkNZ3LQFCe4x68ZBF9FAsIOXB\nuOSLUQV064bN/1TK5dcLVJdfdPvAncvHxdb/BWvHh0CaTVBpRBpK09HcujUb6ZCW\nTHVktKu6Rwb7vHzae1+VxRKDwEBgMI9I5dJFT0bJ+TgYSurKNnfIJuF6vjeoitpy\nMxMr18Fb1geYBcdK7x81OV4KhYwYbHvt18t9lotIowKBgQDk4SloyGzbfQcfMcWL\nv2cUOJv+ser/yk5PiyS9yD16ZxajAU7h4pDAFu9lr+wmCg5wrv+cY/GliweT0DQd\nbawClbLXpVDn1huz4qhDJhM944Th0jl1SFXenA3W8hnufZO4kgxIFI3xORlDXae+\nOF2OZTJbIgcmAwbp/9v2dYVihwKBgQDNZdVwzlX84Rlg8CckP5nHFS1kLhLj4C6u\nIGp0lrRqKlTls7B0S+K4jIDWTun2FBqsKov/MlkGNFWmavf0nV0kgppXJn651Mbd\nuOX7yGoulnHvCObmQ4qaBxN9lBSwzlu8K4l1BG4q0dyvzC+/IEoejlPl+HG5gLnE\n8Vf9sNk8qwKBgQCUxJ3L0+qdx+inKAzFRwXTKPCMXkznMjIwlbqt+MetFfCqxyDk\nxgVcNgwpRm3yU7sLF1Rh7LyW44VrWHtnXW/exjrW3Ed4Sbz78al46/i503b96U0b\npIbcCQcd3YNpdwpbf+Knv2R7lKeNGAT+KVj2Q2S1w6pt1K3bz0jEK6MlZQKBgDWA\ndCOJK67ON50fkSKJCpZn9sXklnkTGTW0LeampuIMmsamkq0IY0stFhY8wgaeYAA+\nqO7Vf4j1MuZBcMsf/nYXKvrOhS4EtbRliEqYfsgZ2h2olPSf3UeX1kTcwLL5Xb3b\nHVgEymmO9sw4BKvlTkk9S69Yks7+L+WT9BaZ7Uw3AoGBAMFwYzUTosirC0ly5H+w\nq0cqfSd9QGRrv3JAcHLckOdRZ07JbRJmiHxzsuKpuAv1EX0VAneiGzl5x2pknP1D\nHRoeV8jCEconnj/hLZN794GMHEeVlGmriybmgyhuX3MOFETwkqnx15jgR8JZXPwX\nGBKm3+50GxXtWfNVVoMthafd\n-----END PRIVATE KEY-----\n",
+    "client_email": "face-detection-videos@dataviv-ecommerce.iam.gserviceaccount.com",
+    "client_id": "115792317107421881877",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/face-detection-videos%40dataviv-ecommerce.iam.gserviceaccount.com"
+  }
+  

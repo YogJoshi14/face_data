@@ -1,0 +1,31 @@
+#Import necessary libraries
+import pickle
+from rest_framework.decorators import api_view
+from rest_framework.response import Response
+from django.shortcuts import render
+import numpy as np
+
+# Create your views here.
+@api_view(['GET'])
+def index_page(request):
+    return_data = {
+        "error" : "0",
+        "message" : "Successful",
+    }
+    return Response(return_data)
+
+@api_view(["POST"])
+def predict_diabetictype(request):
+    try:
+        content = {}
+	uploaded_file = request.files['file']
+        fs = FileSystemStorage()
+        name = fs.save(uploaded_file.name, uploaded_file)
+        context['url'] = fs.url(name)
+        except Exception as e:
+        predictions = {
+            'error' : '2',
+            "message": str(e)
+        }
+    
+    return Response(predictions)
